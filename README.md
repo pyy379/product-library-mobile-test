@@ -1,2 +1,9 @@
-# product-library-mobile-test
-Mobile browsing test with fictional sample products only.
+# 选品收藏馆 · 个人浏览版
+
+包含 196 款产品的个人浏览网页，支持分类、名称/SKU 搜索、排序、图片和产品详情。
+
+网页地址：https://pyy379.github.io/product-library-mobile-test/
+
+此版本公开访问，无需登录，不包含管理员或团队账号功能。产品资料为 2026年11月20日的快照，历史销量不代表当前表现。原站未提供的图片或参考链接保持缺失。
+
+图片已压缩并内嵌，页面不依赖外部字体或图片服务。打开外部参考商品网站时需要网络。
